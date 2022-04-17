@@ -1,4 +1,5 @@
 an 1
+bi 1
 bian 1
 bianyi 1
 cha 1
@@ -10,6 +11,7 @@ ma 1
 ni 1
 qu 1
 shi 1
+te 1
 yan 1
 yi 1
 you 1
