@@ -10,7 +10,7 @@ jian 1
 ma 1
 ni 1
 qu 1
-shi 1
+shi 2 1
 te 1
 yan 1
 yi 1
